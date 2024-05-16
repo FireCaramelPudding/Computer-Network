@@ -1,0 +1,10 @@
+﻿{
+  "Name": "MOS",
+  "Caption": "MOS",
+  "MenuCaption": "MOS",
+  "Hint": "MOS = Mean Opinion Score, an aggregate value of average, jitter and packet loss",
+  "StatsNeeded": [ "Average", "Jitter", "TotalPacketCount", "LostPacketCount" ],
+  "Align":  "Right",
+  "SizeAbility": 0,
+  "Width": "50"
+}
